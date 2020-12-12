@@ -1,0 +1,59 @@
+<html>
+    <title>serious Sam</title>
+    <body style="font-family:sans-serif;">
+        <header style="background-color:darkorange;color:black">
+            <img src="https://c7.uihere.com/files/915/862/358/serious-sam-kamikaze-attack-serious-sam-3-bfe-serious-sam-2-serious-sam-vr-the-last-hope-bomb.jpg" height="50px"/ id="start">
+            <a href="#foto" style="color:black; font-size:20px;">Фото из игры.</a>
+            <a href="#text" style="color:black; font-size:20px;">На каких сайтах скачать?</a>
+        </header>  
+        <main>
+            <h1 style="text-align:center;font-size:50px;id=start"> Serious Sam,обзор игры</h1>
+            <h2 style="text-align:center;font-size:40px;">Накаких сайтах скачать?</h2>
+            <img src="" width="1500px"/>
+            <p>Недавно я скачал игру которая называется Serious Sam 4.Игра мне очень понравилась.</p>
+    <p>В начале Сэм,наш герой едет на машине.Всё было прекрасно!Как вдруг на его машину нападают.
+    Выжили только Сэм и молодой солдат по имени Кенни.Они не желают остоваться на месте и идут до другого персонажа  которого зовут отец Михаил.Всё доходит до того,что Сэм попадает в Россию,в Тайгу.</p>
+    <p>Так как игра вышла не так давно я не ещё не успел дойти до финала,но когда доберусь я скажу кем будет финальный босс и как его пройти.А пока посмотрите скриншоты из игры.</p>
+    <h4 id="foto">Фото из игры</h4>
+   <p> <img src="http://www.croteam.com/wp-content/uploads/2017/02/001.jpg"width="500px"/></p>
+   <img src="https://coop-land.ru/uploads/posts/2011-10/1317587266_serioussam4.jpg"width="500px"/>
+   <img src="https://i.playground.ru/p/rInmCr76lx-emT-rNKCqzg.jpeg?800-auto"width=500px/>
+   </main>
+   <p>Кстати я могу сказать где скачать эту игру!</p>
+   <h3 id="text">Вот вам информация.</h3>
+    <table style="border-collapse:collapse;border:1px solid green;">
+                <tr style="border:1px solid green;background-color:palegreen;">
+                    <td>Сайт</td>
+                    <td>Оценка от 1 до 5</td>
+                    </tr>
+                <tr style="border:1px solid green;">
+                    <td style="background-color:palegreen;">vsetor.org</td>
+                    <td>оценка 3</td>
+                    </tr>
+                <tr style="border:1px solid green;">
+                    <td style="background-color:palegreen;">brotorrent.net</td>
+                    <td>оценка 4</td>
+                    </tr>
+            <tr style="border:1px solid green;">
+                <td style="background-color:palegreen;">torrent-igruha.org</td>
+                <td>оценка 5</td>
+                
+            </tr>
+            <tr style="border:1px solid green;">
+                <td style="background-color:palegreen;">igromagnit.net</td>
+                <td>оценка 1</td>
+                </tr>    
+            <tr style="border:1px solid green;">
+                <td style="background-color:palegreen;">rutorgame.org</td>
+                <td>оценка 2</td>
+                </tr>
+                </table>
+                <footer style="background-color:darkorange;color:black">
+                <a href="#start" style="color:black;font-size:20px">В начало страницы</a>
+            <p style="font-size:15px"> До свидания!Мы были рады вас видеть</p>
+            
+                </footer>
+    </body>
+</html>
+
+    
